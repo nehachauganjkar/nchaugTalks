@@ -1,0 +1,32 @@
+{
+  "name": "nchaugtalks",
+  "version": "1.0.0",
+  "description": "Facebook chat bot\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DA\u001b[C\u001b[D \u001b[C\u001b[Dfa\u001b[2~cebook \u001b[2~chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehachauganjkar/nchaugTalks.git"
+  },
+  "keywords": [
+    "Facebook",
+    "chatbot",
+    "node",
+    "client",
+    "chatbot"
+  ],
+  "author": "Neha Chauganjkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nehachauganjkar/nchaugTalks/issues"
+  },
+  "homepage": "https://github.com/nehachauganjkar/nchaugTalks#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
